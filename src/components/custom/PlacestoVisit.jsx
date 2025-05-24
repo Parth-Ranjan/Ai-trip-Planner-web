@@ -1,4 +1,4 @@
-import PlaceCardItem from './placeCardItem';
+import PlaceCardItem from './PlaceCardItem';
 
 
 const PlacesToVisit = ({ trip }) => {
